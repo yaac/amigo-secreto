@@ -28,7 +28,7 @@ Accede al siguiente enlace para probar la aplicación en línea:
 🔗 **[Amigo Secreto](https://yaac.github.io/amigo-secreto/)**  
 
 ## 📷 Capturas de pantalla  
-![Amigo Secreto](assets/amigo-secreto.png)  
+![Amigo Secreto](assets/Screenshot.png)  
 
 ## 🤝 Contribuciones  
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el código, haz un **fork** y envía un **pull request**.  
